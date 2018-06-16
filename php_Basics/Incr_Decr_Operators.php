@@ -12,6 +12,8 @@
 $x = 10;
 echo $x--;
 echo $x++;
+
+//parsar with run through this code an output the manipulated value
 echo $x;
 
  ?>
