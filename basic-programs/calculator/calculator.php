@@ -3,6 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>Coding'round</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 
@@ -18,7 +19,7 @@
 	</select>
 	<br>
 	<br>
-	<button type="Submit" name="Submit" value="Submit">Calculate</button>
+	<button type="Submit" name="Submit" value="Submit" class="calculate-button">Calculate</button>
 </form>
 
 <p><b>The answer is:</b>
